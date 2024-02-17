@@ -7,10 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-code-shiva&label=Profile%20views&color=0e75b6&style=flat" alt="git-code-shiva" /> </p>
 
-- 🔭 I’m currently working on **MatchCare**
-
-- 🌱 I’m currently learning **MERN stack**
-
 - 👨‍💻 All of my projects are available at https://linktr.ee/shiva_sharma29?utm_source=linktree_admin_share
 
 - 💬 Ask me about **react-js, express-js, node-js, mongoDB**
